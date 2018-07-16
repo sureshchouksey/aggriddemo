@@ -1,0 +1,23 @@
+[ {
+    "name": "1st Year of PhD Program",
+    "id": 1
+  },
+   {
+    "name": "2nd Year of PhD Program",
+    "id": 2
+  },
+  {
+    "name": "3rd Year of PhD Program",
+    "id": 3
+  },
+  {
+    "name": "4th Year of PhD Program",
+    "id": 5
+    
+  },
+ {
+    "name": "Dissertation Year",
+    "id": "Dissertation"
+    
+  }
+]

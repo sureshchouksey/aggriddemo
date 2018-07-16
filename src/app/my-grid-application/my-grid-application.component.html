@@ -1,0 +1,77 @@
+ <!-- <ag-grid-angular #agGrid style="width: 100%; height: 200px;" class="ag-theme-balham"
+                 [gridOptions]="gridOptions">
+    </ag-grid-angular> -->
+<div class="userm">
+    <div class="row control-box reset-margin">
+      <header class="pageHeader  col-lg-8 col-md-8 col-sm-5 reset-padding">
+        <h3> Manage Jobs</h3>
+      </header>
+      <div class="col-lg-4 col-md-4 col-sm-7 pull-right reset-padding">
+        <app-legends [LegendsToDisplay]="LegendsToDisplay"></app-legends>
+      </div>
+    </div>
+     <div class="row control-box reset-margin">
+      <div class="col-lg-4 col-md-4 col-sm-6 reset-padding buttoncontainer">
+        <button href="javascript:;" class="egmbtn" (click)="addJobPost()"><i class="fa fa-plus"></i> Add</button>
+        <button class="egmbtn" (click)="clearFilters()">Clear Filter</button>
+      </div>
+      <div class="col-lg-8 col-md-8 col-sm-6 reset-padding buttoncontainer pull-right t-right">
+        <button [disabled]="!isValidateGridSelection()" [ngClass]="{'egmbtndisable': !isValidateGridSelection()}" class="egmbtn" (click)="BulkActive()">Bulk Active</button>
+        <button [disabled]="!isValidateGridSelection()" [ngClass]="{'egmbtndisable': !isValidateGridSelection()}" class="egmbtn" (click)="BulkDeactive()">Bulk Deactive</button>
+        <button [disabled]="!isValidateGridSelection()" [ngClass]="{'egmbtndisable': !isValidateGridSelection()}" class="egmbtn" (click)="BulkDelete()">Bulk Delete</button>
+      </div>
+      <div class="col-lg-8 col-md-8 col-sm-6 reset-padding buttoncontainer pull-right t-right">
+        <!--<button [disabled]="!isValidateGridSelection()" [ngClass]="{'egmbtndisable': !isValidateGridSelection()}" class="egmbtn" (click)="BulkDelete()">Bulk Delete</button>-->
+      </div>
+    </div>
+    <div class="minheight usersummery">    
+        <ag-grid-angular #agGrid
+                            style="width: 100%; height: 100%;"
+                            id="myGrid"
+                            class="ag-theme-fresh"
+                            [columnDefs]="columnDefs"
+                            [enableColResize]="true"
+                            [rowSelection]="rowSelection"
+                            [rowModelType]="rowModelType"
+                            [pagination]="true"
+                            [paginationPageSize]="paginationPageSize"
+                            [suppressDragLeaveHidesColumns]="false"
+                            [cacheOverflowSize]="cacheOverflowSize"
+                            [maxConcurrentDatasourceRequests]="maxConcurrentDatasourceRequests"
+                            [infiniteInitialRowCount]="infiniteInitialRowCount"
+                            [paginationAutoPageSize]=""
+                            [cacheBlockSize]="cacheBlockSize"
+                            [suppressPaginationPanel]="true"
+                            [suppressScrollOnNewData]="false"
+                            [suppressRowClickSelection]="true"
+                            [rowHeight]="40"
+                            [debug]="true"
+                            [enableServerSideSorting]="true"
+                            [enableFilter]="true"
+                            [gridOptions]="gridOptions"
+                            [defaultColDef]="defaultColDef"
+                            [rowData]="rowData"
+                            [rowGroupPanelShow]="rowGroupPanelShow"
+                            [pivotPanelShow]="pivotPanelShow"
+                            [enableStatusBar]="true"
+                            [enableRangeSelection]="true"
+                            [enableSorting]="true"
+                            [domLayout]="domLayout"
+                            [suppressCellSelection]="true"
+                            [suppressPreventDefaultOnMouseWheel] = "true"
+                            (sortChanged)="onSortChanged($event)"
+                            (filterChanged)="onFilterChanged($event)"
+                            (modelUpdated)="onModelUpdated()"
+                            (gridReady)="onGridReady($event)"
+                            (rowClicked)="onRowClicked($event)"
+                            (columnResized)="onColumnResized($event)"
+                            [getRowHeight]="getRowHeight"></ag-grid-angular>
+            
+            <div class="pull-left mtop10 col-sm-12 col-md-12 col-lg-12 reset-padding">
+                <div *ngIf="isParentDataReady">
+                <pagination-component [paginationData]="parentPaginationData" (updatePage)="updatePage($event)"></pagination-component>
+                </div>
+            </div>
+    </div>
+</div>
+    

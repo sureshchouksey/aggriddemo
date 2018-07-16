@@ -1,0 +1,74 @@
+[
+  {
+    "component": "EmployerInformationComponent",
+    "canActivate": true,
+    "type": 18,
+    "typeName": "Employer",
+    "data": {
+      "title": "Employer Information"
+    }
+  },
+  {
+    "component": "ContactInformationComponent",
+    "canActivate": true,
+    "type": 18,
+    "typeName": "Employer",
+    "data": {
+      "title": "Contact Information"
+    }
+  },
+  {
+    "component": "CareerCenterInformationComponent",
+    "canActivate": true,
+    "type": 18,
+    "typeName": "Employer",
+    "data": {
+      "title": "Career Center Information"
+    }
+  },
+  {
+    "component": "ApplicantInformationComponent",
+    "canActivate": true,
+    "type": 18,
+    "typeName": "Employer",
+    "data": {
+      "title": "Applicant Information"
+    }
+  },
+  {
+    "component": "EmployerInformationComponent",
+    "canActivate": true,
+    "type": 19,
+    "typeName": "University",
+    "data": {
+      "title": "University"
+    }
+  },
+  {
+    "component": "ContactInformationComponent",
+    "canActivate": true,
+    "type": 19,
+    "typeName": "University",
+    "data": {
+      "title": "Contact Information"
+    }
+  },
+  {
+    "component": "CareerCenterInformationComponent",
+    "canActivate": true,
+    "type": 19,
+    "typeName": "University",
+    "data": {
+      "title": "Career Center Information"
+    }
+  },
+  {
+    "component": "UniversityInformationComponent",
+    "canActivate": true,
+    "type": 19,
+    "typeName": "University",
+    "data": {
+      "title": "University Information"
+    }
+  }
+]

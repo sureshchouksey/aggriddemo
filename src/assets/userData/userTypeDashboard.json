@@ -1,0 +1,1211 @@
+[
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": false,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": false,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": false,
+    "type": 1,
+    "typeName": "GEM staff",
+    "data": {
+      "title": "User AAdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardPersonalInfo "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardGraph"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardApplicationStatus"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardTaskList"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardComponent5"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 2,
+    "typeName": "GEM Prospective",
+    "data": {
+      "title": "GEM Prospective DashboardComponent6"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardPersonalInfo "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardGraph"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardApplicationStatus"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardTaskList"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardComponent5"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 5,
+    "typeName": "GEM Submitted",
+    "data": {
+      "title": "GEM Submitted DashboardComponent6"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete",
+    "data": {
+      "title": "GEM Complete DashboardPersonalInfo "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete ",
+    "data": {
+      "title": "GEM Complete DashboardGraph"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete",
+    "data": {
+      "title": "GEM Complete DashboardApplicationStatus"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete ",
+    "data": {
+      "title": "GEM Complete DashboardTaskList"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete ",
+    "data": {
+      "title": "GEM Complete DashboardComponent5"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 6,
+    "typeName": "GEM Complete ",
+    "data": {
+      "title": "GEM Complete DashboardComponent6"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardPersonalInfo "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardGraph"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardApplicationStatus"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardTaskList"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardComponent5"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 7,
+    "typeName": "GEM Incomplete",
+    "data": {
+      "title": "GEM Incomplete DashboardComponent6"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 8,
+    "typeName": "GEM Declined",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 9,
+    "typeName": "GEM Fellow",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 10,
+    "typeName": "GEM Early Consideration",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GGEM Registered",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GEM Registered",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GEM Registered",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GEM Registered",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GEM Registered",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 11,
+    "typeName": "GEM Registered",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 12,
+    "typeName": "GEM Intern",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GEM Non Select",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GEM Non Select",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GGEM Non Select",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GEM Non Select",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GEM Non Select",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 13,
+    "typeName": "GEM Non Select",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 14,
+    "typeName": "GEM Pending Fellow",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 15,
+    "typeName": "GEM Post Select",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 16,
+    "typeName": "GEM Pre Select",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 17,
+    "typeName": "GEM Select",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": true,
+    "type": 19,
+    "typeName": "GEM Fellow Alumni",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 21,
+    "typeName": "GEM Inactive Fellow Alumni",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "EmployeeRepresentativeInformationComponent",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 23,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+
+
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "EmployeeRepresentativeInformationComponent",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM Employee Representative",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 33,
+    "typeName": "GEM University Representative",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": true,
+    "type": 34,
+    "typeName": "GEM Board Member",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  },
+  {
+    "component": "DashboardPersonalInfo",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Contact Information "
+    }
+  },
+  {
+    "component": "DashboardGraph",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Basic Information"
+    }
+  },
+  {
+    "component": "DashboardApplicationStatus",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Eductional Information"
+    }
+  },
+  {
+    "component": "DashboardTaskList",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Graduate Informataion"
+    }
+  },
+  {
+    "component": "DashboardComponent5",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Academic Interests"
+    }
+  },
+  {
+    "component": "DashboardComponent6",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User Administrative"
+    }
+  },
+  {
+    "component": "DashboardComponent7",
+    "isShow": true,
+    "type": 35,
+    "typeName": "GEM Executive Committee",
+    "data": {
+      "title": "User AdministrativeAssistanceInformation"
+    }
+  }
+]

@@ -1,0 +1,1521 @@
+{
+  "app": {
+    "Welcome": "Welcome",
+    "Notifications": "Notifications",
+    "New": "New"
+  },
+  "loginlabels": {
+    "boxhead": "We're Here For You!",
+    "loginmsg": "  Offering the entire recruitment, retention and professional development spectrum.",
+    "forgot": "Forgot Password? ",
+    "clickher": "click here",
+    "newusr": "New user?",
+    "signup": "SIGN UP",
+    "resetpassword": "Reset Password",
+    "joinusheading": "Join Us",
+    "joinustext": "Connect With Alumini,mentors, explore the best opportunities",
+    "joinusinfo": "EXPLORE COMMUNITIES",
+    "forgotpassword": "Forgot Password",
+    "shopheading": "Shop",
+    "shoptext": "GEM offers fellowship programs that are simple text as per dummy simply the best!",
+
+    "prmoeventheading": "2016 Gem Annual Conference",
+    "prmoeventlabeltext": " Welcome to Florida ",
+    "prmoeventtext": "opening session and reception Cruise",
+    "promoview": "VIEW EVENTS",
+
+    "fellowshipheading": " GEM Fellowships",
+    "fellowshiptext": "GEM offers fellowship programs that are simple text as per dummy simply the best!",
+    "jobsheading": "Jobs",
+    "jobext": "opening session and reception Cruise",
+    "postjob": "POST A JOBS >",
+
+    "mkdonateheading": "Donate!",
+    "mkdonatetext": "Support our mission to award more fellowships to deserving students ",
+    "mkdonatebutton": "Make a donation",
+    "viewmoreinfo": "View More Information",
+    "eventheading": "GEM Events",
+    "eventtext": "GEM brings you events that are the simply best",
+    "Explorebtn": "EXPLORE",
+    "Regwithus": " REGSISTER WITH US",
+    "Regnow": "REGISTER NOW"
+  },
+  "mainMenu": {
+    "Appointments": "Appointments",
+    "Customers": "Customers",
+    "Products": "Products",
+    "Orders": "Orders",
+    "Skills": "Skills",
+    "About": "About",
+    "Logout": "Logout",
+    "MajorManagement": "Major Management",
+    "CompanyManagement": "Company Management",
+    "AreaOfConcentration": "Area Of Concentration",
+    "WorkAssignment": "Work Assignments",
+    "GeographicManagement": "Geographic Management",
+    "ReferralSourceManagement": "Referral Source Management",
+    "UndergraduateSchool": "Undergraduate School",
+    "GraduateInstitutions": "Graduate Institutions"
+  },
+  "tooltip": {
+    "Edit": "Edit",
+    "Manage": "Manage",
+    "Delete": "Delete",
+    "Active": "Active/Inactive",
+    "Reset": "Reset",
+    "View": "View",
+    "Merge": "Merge"
+  },
+  "Mergeuser": {
+    "user_id": "User Id",
+    "SourceName": "Source Name",
+    "Destiuser_id": "User Id",
+    "DestiName": "Destination Name",
+    "Email": "Email",
+    "Type": "Type"
+  },
+  "beforelogintext": {
+    "about": "About GEM",
+    "fello": "Fellowships",
+    "Event": "Event",
+    "Donate": "Donate",
+    "jobs": "Jobs",
+    "shops": "Shops",
+    "applyfell": "Apply For Fellowships"
+  },
+  "legends": {
+    "Edit": "Edit",
+    "heading": "Legend",
+    "Manage": "Manage Permissions",
+    "Delete": "Delete",
+    "Active": "Active/Deactive",
+    "Reset": "Reset Password",
+    "View": "View Details",
+    "Merge": "Merge",
+    "Login": "Login as this user",
+    "Student": "Add Student",
+    "Supervisor": "Add Supervisor",
+    "Resume": "Resume",
+    "Application": "Application",
+    "SubmitScoreCard": "Submit Score Card",
+    "ViewTranscript": "View Transcript/Statement of purpose"
+  },
+  "pageHeader": {
+    "Dashboard": "Dashboard",
+    "Customers": "Customers",
+    "Products": "Products",
+    "Orders": "Orders",
+    "NotFound": "Not-Found",
+    "About": "About",
+    "Settings": "Settings",
+    "Skills": "Skills",
+    "MajorManagement": "Major Management",
+    "CompanyManagement": "Company Management",
+    "AreaOfConcentration": "Area Of Concentration",
+    "WorkAssignment": "Work Assignments",
+    "GeographicManagement": "Geographic Management",
+    "ReferralSourceManagement": "Referral Source Management",
+    "UndergraduateSchool": "Undergraduate School",
+    "ManagePermissions": "Manage Permissions",
+    "SelectFeatureAccess": "Select Feature Access",
+    "employermanagement": "Employer Management",
+    "usermanagement": "User Management",
+    "GraduateInstitutions": "Graduate Institutions",
+    "ApplicationCycle": "Application Cycle",
+    "MembershipCycle": "Membership Cycle",
+    "EventSpeakerManagement": "Event Speaker Management"
+  },
+  "home": {
+    "NoWidgets1": "You have no widgets displayed. Goto",
+    "NoWidgets2": "to configure available widgets",
+    "StatisticsTitle": "Some Important Stuff"
+  },
+  "notFound": {
+    "404": "404",
+    "pageNotFound": "The page you are looking for does not exist",
+    "pageNotfoundtext": "Page not Found",
+    "backToHome": "Home",
+    "MR0003": "Duplicate record",
+    "GN0001": "Unable to process your requesrt(GN0001)"
+  },
+  "customError": {
+    "GN0001": "Unable to process your requesrt(GN0001)",
+    "MR0003": "Action can not be done Internship already exist for selected year.",
+    "Membership": {
+      "MR0003": "A membership already exists for the specified year for this organization."
+    }
+  },
+  "settings": {
+    "tab": {
+      "Profile": "Profile",
+      "Preferences": "Preferences",
+      "Users": "Users",
+      "Roles": "Roles"
+    },
+    "header": {
+      "UserProfile": "User Profile",
+      "UserPreferences": "User Preferences",
+      "UserDepartments": "User Departments",
+      "UsersManagements": "Users Managements",
+      "RolesManagement": "Roles Management"
+    }
+  },
+  "preferences": {
+    "ReloadPreferences": "Reload Preferences:",
+    "ReloadPreferencesHint": "Load default preferences (local changes are discarded)",
+    "Language": "Language:",
+    "English": "English",
+    "French": "French",
+    "German": "German",
+    "Arabic": "Arabic",
+    "Korean": "Korean",
+    "LanguageHint": "Select the preferred language for your account",
+    "HomePage": "Home Page:",
+    "Dashboard": "Dashboard",
+    "Customers": "Customers",
+    "Products": "Products",
+    "Orders": "Orders",
+    "About": "About",
+    "Settings": "Settings",
+    "HomePageHint": "Select the default page to navigate to on login",
+    "Theme": "Theme:",
+    "DefaultColor": "<span class='default-theme-option'>Default</span>",
+    "RedColor": "<span class='red-theme-option'>Red</span>",
+    "OrangeColor": "<span class='orange-theme-option'>Orange</span>",
+    "GreenColor": "<span class='green-theme-option'>Green</span>",
+    "GrayColor": "<span class='gray-theme-option'>Gray</span>",
+    "BlackColor": "<span class='black-theme-option'>Black</span>",
+    "ThemeHint": "Select the default color theme for your account",
+    "DashboardStatistics": "Dashboard Statistics:",
+    "DashboardStatisticsHint": "Show demo graph widget on the dashboard",
+    "DashboardNotifications": "Dashboard Notifications:",
+    "DashboardNotificationsHint": "Show application notifications on the dashboard",
+    "DashboardTodo": "Dashboard Todo:",
+    "DashboardTodoHint": "Shows demo todo widget on the dashboard",
+    "DashboardBanner": "Dashboard Banner:",
+    "DashboardBannerHint": "Show demo information banner widget on the dashboard",
+    "ResetDefault": "Reset default",
+    "SetDefault": "Set as default"
+  },
+  "users": {
+    "management": {
+      "Search": "Search for user...",
+      "NewUser": "New User",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditUser": "Edit User \"{{name}}\"",
+      "Title": "Title",
+      "UserName": "User Name",
+      "FullName": "Full Name",
+      "Email": "Email",
+      "Roles": "Roles",
+      "PhoneNumber": "Phone Number"
+    },
+    "editor": {
+      "JobTitle": "Job Title: ",
+      "UserName": "User Name:",
+      "UserNameRequired": "User name is required (minimum of 2 and maximum of 200 characters)",
+      "Password": "Password:",
+      "PasswordHint": "Your password is required when changing user name",
+      "CurrentPasswordRequired": "Current password is required",
+      "Email": "Email:",
+      "EmailRequired": "Email address is required (maximum of 200 characters)",
+      "InvalidEmail": "Specified email is not valid",
+      "ChangePassword": "Change Password",
+      "CurrentPassword": "Current Password:",
+      "NewPassword": "New Password:",
+      "NewPasswordRequired": "New password is required (minimum of 6 characters)",
+      "ConfirmPassword": "Confirm Password:",
+      "ConfirmationPasswordRequired": "Confirmation password is required",
+      "PasswordMismatch": "New password and confirmation password do not match",
+      "Roles": "Roles:",
+      "FullName": " Full Name:",
+      "RoleRequired": " Role is required",
+      "PhoneNumber": "Phone #:",
+      "Enabled": "Enabled",
+      "Unblock": "Unblock",
+      "Close": "Close",
+      "Edit": "Edit",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving..."
+    }
+  },
+  "roles": {
+    "management": {
+      "Search": "Search for role...",
+      "NewRole": "New Role",
+      "Edit": "Edit",
+      "Details": "Details",
+      "Delete": "Delete",
+      "RoleDetails": "Role Details",
+      "EditRole": "Edit Role \"{{name}}\"",
+      "Name": "Name",
+      "Description": "Description",
+      "Users": "Users"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Description": "Description:",
+      "RoleNameRequired": "Role name is required (minimum of 2 and maximum of 200 characters)",
+      "SelectAll": "Select all",
+      "SelectNone": "Select none",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving..."
+    }
+  },
+  "notifications": {
+    "Delete": "Delete notification",
+    "Pin": "Pin notification",
+    "Date": "Date",
+    "Notification": "Notification"
+  },
+  "todoDemo": {
+    "management": {
+      "Search": "Search for task...",
+      "HideCompleted": "Hide Completed",
+      "AddTask": "Add Task",
+      "Delete": "Delete task",
+      "Important": "Mark as important",
+      "Task": "Task",
+      "Description": "Description"
+    },
+    "editor": {
+      "NewTask": "New Task",
+      "Name": "Name",
+      "TaskNameRequired": "Task name is required",
+      "Description": "Description",
+      "Important": "Mark as important",
+      "AddTask": "Add Task"
+    }
+  },
+  "universitypayment": {
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "ValueNameRequired": "You haven’t entered feild value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Skill"
+    }
+  },
+  "skills": {
+    "management": {
+      "Search": "Search for skills...",
+      "NewSkill": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditSkill": "Skill ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "SkillNameRequired": "You haven’t entered Name, please provide input",
+      "SkillValueRequired": " You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Skill"
+    }
+  },
+  "graduateInstitutions": {
+    "management": {
+      "Search": "Search for Graduate Institutions...",
+      "NewGraduateInstitution": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditGraduateInstitution": "Edit Graduate Institution ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "GraduateInstitutionNameRequired": "You haven’t entered Graduate Institution Name, please provide input",
+      "GraduateInstitutionValueRequired": "You haven’t entered Graduate Institution Value, please provide input",
+      "Close": "Grad Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Graduate Institution"
+    }
+  },
+  "applicationCycle": {
+    "management": {
+      "NewApplicationCycle": "Add",
+      "Search": "Search for Application Cycle...",
+      "Edit": "Edit",
+      "Delete": "Delete"
+    },
+    "editor": {
+      "Save": "Save",
+      "Cancel": "Cancel",
+      "StartDateRequired": "You haven't entered in the year Start Date.",
+      "EndDateRequired": "You haven't entered in the year End Date.",
+      "ProgramTypeRequired": "You haven't selected a Program Type.",
+      "OpenDateRequired": "You haven't entered the Open Date.",
+      "PhaseOneCloseDateRequired": "You haven't entered the Phase I Close Date.",
+      "CloseDateRequired": "You haven't entered the Close Date.",
+      "GREChangeDeadlineRequired": "You haven't entered in date until which a person can modify their GRE.",
+      "RecommenderChangeDeadlineRequired": "You haven't entered in date until which a person can modify their recommend-er(s).",
+      "CycleCompletionRequired": "You haven't entered the cycle completion date.",
+      "MinScoreMemberRequired": "You haven't entered in minimum program score.",
+      "EmployerOpenDateRequired": "You haven't entered in date the application opens.",
+      "EmployerCloseDateRequired": "You haven't entered the employer(s) close date.",
+      "EmployerSelectionDeadlineRequired": "You haven't entered in employer selection deadline.",
+      "MaxRequisitionTypesRequired": "You haven't entered in maximum number of requisition types.",
+      "UniversityOpenDateRequired": "You haven't entered the University(s) open date.",
+      "UniversityCloseDateRequired": "You haven't entered the University(s) close date.",
+      "AutoRenewAlumniMembershipDateRequired": "You haven't entered in an Auto Renew Alumni Membership Date.",
+      "AutoRenewInvoiceDateRequired": "You haven't entered Auto Renewal Invoice date.",
+      "AlumniMembershipExpirationDateRequired": "You haven't entered Alumni Membership Expiration Date.",
+      "FellowshipNameRequired": "You haven't entered a Fellowship Name.",
+      "EndDateMustBeGreaterThenStartDate": "End date must be greater then start date.",
+      "CycleCompletionMustBeGreaterThenCloseDate": "Please enter a cycle completion date after the close date.",
+      "CloseDateMustBeGreaterThenPhaseOneCloseDate": "The close date must be after the phase I close date.",
+      "StartDateTaken": "Entered year start date is already exist.",
+      "EndDateTaken": "Entered year end date is already exist",
+      "AcceptanceTextHint": "This text is shown when an applicant first begins their application. They must check the box to acknowledge it before they continue. Ex: I understand that I am applying for funding that begins no sooner than xxx",
+      "PhaseOneCloseDateHint": "After this date, early consideration GEM applicants cannot change part I of their application.",
+      "CycleCompletionHint": "After this date, applicants are changed to Incomplete / Non Select / Intern depending on their status.",
+      "EmployerOpenDateHint": "You haven't entered in date the application opens.",
+      "EmployerCloseDateHint": "Employer Profile Freeze Date.",
+      "MaxAssignedTimeHint": "After a employer is assigned an application, this is the amount of time until which the application is released.",
+      "MaxHoldTimeHint": "After a employer holds an application, this is the amount of time until which the application is released.",
+      "UniversityOpenDateHint": "Universities Can Search Applicants After.",
+      "UniversityCloseDateHint": "University Profile Freeze Date.",
+      "CannotBeLowerThenStartDate": "Date cannot be before start date.",
+      "CannotBeGraterThenEndDate": "Date cannot be later then end date."
+    }
+  },
+  "membershipCycle": {
+    "management": {
+      "NewMembershipCycle": "Add",
+      "Search": "Search for Membership Cycle...",
+      "Edit": "Edit",
+      "Delete": "Delete"
+    },
+    "editor": {
+      "Save": "Save",
+      "Cancel": "Cancel",
+      "StartDateRequired": "You haven't entered in the year Start Date.",
+      "EndDateRequired": "You haven't entered in the year End Date.",
+      "UniversityOpenDateRequired": "You haven't entered the University(s) open date.",
+      "UniversityCloseDateRequired": "You haven't entered the University(s) close date.",
+      "AutoRenewAlumniMembershipDateRequired": "You haven't entered in an Auto Renew Alumni Membership Date.",
+      "AutoRenewInvoiceDateRequired": "You haven't entered Auto Renewal Invoice date.",
+      "AlumniMembershipExpirationDateRequired": "You haven't entered Alumni Membership Expiration Date.",
+      "StartDateTaken": "Entered year start date is already exist.",
+      "EndDateTaken": "Entered year end date is already exist",
+      "UniversityOpenDateHint": "Universities Can Search Applicants After.",
+      "UniversityCloseDateHint": "University Profile Freeze Date.",
+      "CannotBeLowerThenStartDate": "Date cannot be before start date.",
+      "CannotBeGraterThenEndDate": "Date cannot be later then end date."
+    }
+  },
+  "majorManagement": {
+    "management": {
+      "Search": "Search for Major Management...",
+      "NewMajorManagement": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditMajorManagement": "Edit MajorManagement ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "MajorManagementNameRequired": "You haven’t entered Major Name, please provide input",
+      "MajorManagementValueRequired": "You haven’t entered Major Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Major Management"
+    }
+  },
+  "companyManagement": {
+    "management": {
+      "Search": "Search for Company Management...",
+      "NewCompanyManagement": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditCompanyManagement": "Edit CompanyManagement ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "CompanyNameRequired": "You haven’t entered Name, please provide input",
+      "CompanyValueRequired": "You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Company Management"
+    }
+  },
+  "areaofconcentration": {
+    "management": {
+      "Search": "Search for Area Of Concentration...",
+      "NewAreaOfConcentration": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditAreaOfConcentration": "Edit Area Of Concentration ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "AreaOfConcentrationNameRequired": "You haven’t entered Name, please provide input",
+      "AreaOfConcentrationValueRequired": "You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Area Of Concentration"
+    }
+  },
+  "workAssignment": {
+    "management": {
+      "Search": "Search for Work Assignments...",
+      "NewWorkAssignment": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditWorkAssignment": "Edit",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "WorkAssignmentNameRequired": "You haven’t entered Name, please provide input",
+      "WorkAssignmentNameMax": "Work Assignment Value must be less than 100 characters",
+      "WorkAssignmentValueRequired": "You haven’t entered Value, please provide input",
+      "WorkAssignmentValueMax": "Work Assignment Value must be less than 100 characters",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Work Assignment"
+    }
+  },
+  "geographicmanagement": {
+    "management": {
+      "Search": "Search for Geographic Preference...",
+      "NewGeographicPreference": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditGeographicPreference": "Edit",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "GeographicPreferenceNameRequired": "You haven’t entered Name, please provide input",
+      "GeographicPreferenceValueRequired": "You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": ""
+    }
+  },
+  "referralsourcemanagement": {
+    "management": {
+      "Search": "Search for Referral Source...",
+      "NewReferralSource": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditReferralSource": "Edit Referral Source ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "ReferralSourceNameRequired": "You haven’t entered Name, please provide input.",
+      "ReferralSourceValueRequired": "You haven’t entered Value, please provide input.",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Referral Source"
+    }
+  },
+  "undergraduateschool": {
+    "management": {
+      "Search": "Search for Undergraduate School...",
+      "NewUndergraduateSchool": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditUndergraduateSchool": "Edit",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "UndergraduateSchoolNameRequired": "You haven’t entered Name, please provide input",
+      "UndergraduateSchoolValueRequired": "You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving...",
+      "Title": "Undergraduate School"
+    }
+  },
+  "breadcrumb": {
+    "management": {
+      "Home": "Home",
+      "Configurations": "Configurations",
+      "UserManagement": "User Management",
+      "Skills": "Skills",
+      "egemsystememail": "eGem System Emails",
+      "Universitypayments": "University Payment",
+      "AreaOfConc": "Area Of Concentration",
+      "Company": "Company",
+      "WorkAssignment": "Work Assignment",
+      "Geographic": "Geographic",
+      "Referral": "Referral",
+      "Undergraduate": "Undergraduate",
+      "Major": "Major",
+      "EditUndergraduateSchool": "Edit Undergraduate School",
+      "ManageUser": "Manage User",
+      "Title": "Title",
+      "employermanagement": "Employer Management",
+      "UniversityManagement": "University Management",
+      "OrganizationManagement": "Organization Management",
+      "GraduateInstitutions": "Graduate Institutions",
+      "ApplicationCycle": "Application Cycle",
+      "configure": "Configure Application Cycle",
+      "CurrentlyMatriculatingStudents": "Currently Matriculating Students",
+      "University": "University",
+      "CreateUniversityPayment": "Create University Payment Scenario",
+      "EditUniversityPayment": "Edit University Payment Scenario",
+      "ManageJudgingTeam": "Manage Judging Teams",
+      "JudgingTeamSummary": "Judging Team Summary",
+      "ViewScoreSummary": "View Score Summary",
+      "SubmitScorecard": "Submit a Score Card",
+      "JudgeApplicants": "Judge Applicants",
+      "MembershipCycle": "Membership Cycle",
+      "configureMembership": "Configure Membership Cycle",
+      "Fellowship": "Fellowship"
+    },
+    "UserManagement": {
+      "ManageUser": "Manage User",
+      "FeatureAccess": "Feature Access",
+      "ManagePermissions": "Manage Permissions",
+      "CreateUser": "Create User",
+      "UpdateUser": "Update User",
+      "Update": "Update",
+      "Save": "Save",
+      "View": "View",
+      "ContactInformation": "Contact Information"
+    },
+    "Employermanagement": {
+      "CreateEmployer": "Create Employer Profile",
+      "UpdateEmployer": "Update Employer Profile",
+      "Createrequisition": "Create Requisition Type",
+      "Editrequisition": "Edit Requisition Type"
+    },
+    "OrganizationManagement": {
+      "UpdateOrganization": "Update Employer Profile",
+      "CreateOrganization": "Create Employer Profile",
+      "EmployerManagement": "Employer Management",
+      "UniversityManagement": "University Management",
+      "Add": "Create",
+      "Edit": "Edit",
+      "EmployerProfile": "Employer Profile",
+      "EmployerProfilePermission": "Employer Profile Permission Setting",
+      "SetProfile": "Set Profile",
+      "UniversityProfile": "University Profile",
+      "NoContactOnFile": "This organization has no contacts on file."
+    },
+    "Membership": {
+      "EmployerMembership": "Employer Membership",
+      "UniversityMembership": "University Membership"
+    },
+    "Reports": {
+      "Home": "Home",
+      "title": "Fellowship Applications (Current Year)",
+      "Felloshipapplication": "fellowshipapplication",
+      "Configurations": "Configurations"
+    }
+  },
+  "user": {
+    "management": {
+      "Search": "Search for User",
+      "NewUser": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditUser": "Edit User ",
+      "Title": "Title"
+    },
+    "editor": {
+      "Name": "Name:",
+      "Value": "Value:",
+      "SkillNameRequired": " You haven’t entered Name, please provide input",
+      "SkillValueRequired": " You haven’t entered Value, please provide input",
+      "Close": "Close",
+      "Cancel": "Cancel",
+      "Save": "Save",
+      "Saving": "Saving..."
+    }
+  },
+  "egemsystememail": {
+    "name": "Name",
+    "Description": "Description",
+    "lastupdated": "Last Updated",
+    "messagesubject": "Message Subject",
+    "message": "Message",
+    "editor": {
+      "header": "Email Template Editor",
+      "NameRequired": "You haven't entered an Name",
+      "NameMustBeUnique": "Name must be unique",
+      "SubjectRequired": "You haven't entered a subject"
+    }
+  },
+  "emailBlast": {
+    "editor": {
+      "selectEmailBlastTemplate": "Select a Blast",
+      "selectDateAndTimeToRun": "Enter the date & time to run this blast"
+    }
+  },
+  "common": {
+    "noBtnText": "No",
+    "yesBtnText": "Yes",
+    "Add": "Add",
+    "Edit": "Edit",
+    "management": {
+      "ClearFilter": "Clear Filter",
+      "BulkActive": "Bulk Active",
+      "BulkDeactive": "Bulk Deactive",
+      "BulkDelete": "Bulk Delete",
+      "GoHome": "Go Home"
+    },
+    "pagination": {
+      "PerPageLabel": "Items Per Page"
+    },
+    "SpecialCharacterNotAllowed": "Special characters are not allowed. please enter alphanumerics",
+    "test": "opiuiouio",
+    "IntergersOnly": "Please enter integers only",
+    "invalidInput": "please provide valid input",
+    "requiredInput": "You haven’t entered Input, please provide input",
+    "hintMax10Number": "maximum of 10 numbers"
+  },
+  "Createuser": {
+    "Userinformation": "User Information",
+    "Contanctformation": "Contact Information",
+    "Basicinformation": "Basic Information",
+    "Eductionalbackground": "Educational Background",
+    "Garaduateformation": "Graduate Information",
+    "Academicinterests": "Academic Interests",
+    "Administrative": "Administrative",
+    "employeeRepresentative": "Employee Representative Information",
+    "universityRepresentative": "University Representative Information",
+    "Upplodpic": "Upload Pic",
+    "usrId": "Id",
+    "empStatus": "Status",
+    "Usertype": "USER TYPE",
+    "Firstname": "First Name",
+    "Middlename": "Middle Name",
+    "Lastname": "Last Name",
+    "Email": "Email Address ",
+    "Currenttitle": "Current Title",
+    "Country": "Country",
+    "Addressline1": "Address Line1",
+    "Addressline2": "Address Line2",
+    "Mobilephone": "Mobile Phone",
+    "Workphone": "Work Phone",
+    "Homephone": "Home Phone",
+    "City": "City",
+    "State": "State",
+    "Otherphone": "Other Phone",
+    "Postalcode": "Postal Code",
+    "Birthday": "Birthday",
+    "Ssn": "SSN",
+    "Gender": "Gender",
+    "Ethnicity": "Ethnicity",
+    "Ethnicitymsg": "Check at least one, and all that apply",
+    "Native": "Native American / American Indian",
+    "Black": "Black/African American",
+    "Latino": " Latino/Hispanic American",
+    "Mexican": "Mexican",
+    "Puerto": "Puerto - Rican",
+    "latino": "Latino/Other",
+    "other": "Other",
+    "Uscitizen": "Are you a US Citizen?",
+    "Ifno": "If no, are you a Permanent Resident?",
+    "Passport": "Do you have a valid U.S. Passport?",
+    "Currentstatus": "Current Status",
+    "Degree": "Degree",
+    "Undergradateinstitutions": "Undergraduate Institutions",
+    "Major": "Major",
+    "Anticipitedgraductionyear": "Anticipated Graduation Year",
+    "Undergraduategpa": "Undergraduate Gpa(%)",
+    "Graduatedegree": "Graduate Degree",
+    "Recruiterinitial": "Recruiter Initial",
+    "Graduateinstitution": "Graduate Institution",
+    "Graduatefieldofstudy": "Graduate Field Of Study",
+    "Gpa": "GPA (%)",
+    "Expectedlevelofstudy": "Expected Level Of Study",
+    "Attendschool": "Do you Plan To Attend Summer School?",
+    "Ihope": "I hope To Enter A Program In",
+    "Preselectemp": "Pre-Select Employer",
+    "Applicationextentiondate": "Application Extention Date",
+    "Emp1": "Employer 1 Name",
+    "Emp2": "Employer 2 Name",
+    "Emp1city": "Employer 1 City/State",
+    "Emp2city": "Employer 2 City/State",
+    "UserValidInput": "please provide valid input",
+    "passwordvalidInput": "Minimum eight characters, at least one letter, one number and one special character",
+    "passwordmismatch": "Password does not match",
+    "emailmismatch": "Email does not match",
+    "UserRequired": "Please provide input",
+    "UserRequiredSelect": "Please select input",
+    "Close": "Close",
+    "Cancel": "Cancel",
+    "Save": "Save",
+    "Update": "Update",
+    "PhoneNumberValidation": "please do not enter more than 15 numbers",
+    "AdministrativeAssistantInfo": "Administrative Assistant Information",
+    "EmployeeName": "Employer Name",
+    "UniversityName": "University Name",
+    "DepartmentName": "Department Name",
+    "employeeRepresentatives": "Employee Representative",
+    "universityRepresentatives": "University Representative",
+    "user": "User",
+    "EmailConfirm": "Confirm Email",
+    "Password": "Password",
+    "PasswordConfirm": "Confirm Password",
+    "SameAsPresent": "My permanent address is same as my present address",
+    "SSNFormatRequired": "SSN must have 9 numbers"
+  },
+  "delete": {
+    "Title": "Delete Confirmation",
+    "Message": "Are you sure you want to delete ?",
+    "Cancel": "Cancel",
+    "Ok": "Ok"
+  },
+  "PopupHeader": {
+    "ChangeStatus": "Change Status"
+  },
+  "PlaceHolders": {
+    "UserType": "User Type",
+    "Users": "Users",
+    "Type": "TYPE",
+    "Status": "STATUS",
+    "EmployerName": "EMPLOYER NAME",
+    "UniversityName": "University NAME",
+    "Country": "COUNTRY",
+    "Willsponsorms": " Will sponsor Master's students?",
+    "Willsponsorphd": " Will sponsor PH.D. students?",
+    "Yes": "Yes",
+    "No": "No"
+  },
+
+  "CheckBoxText": {
+    "MakeSuperUser": "Make Super User",
+    "ResetPermission": "Reset Permission"
+  },
+  "Createrequisition": {
+    "Pagehead": "Create Requisition Type",
+    "PleaseUse": "Please use the fields below to create a requisitoin type that GEM will use to match students to your needs",
+
+    "keyword": "Keywords",
+    "Minimum": "Minimum GPA",
+    "Degree": "Degree Type",
+    "Reqisitionname": "Requisition Name",
+    "noofstudents": " No of students you want to sponsor",
+    "gemmejor": "GEM major grouping (Please select atlest one)",
+    "slected": "Selected Fields",
+    "gemarea": "GEM major/Areas of Concerntration(Please select atlest one)",
+    "geo": "Geography(optional)",
+    "undegraduate": "Preferred Undergraduate Institution(optional)",
+    "graduate": "Preferred Graduate Institution",
+    "matching": "Matching Priorities"
+  },
+  "Internship": {
+    "head": "Internship Information",
+    "empname": "Employer Name",
+    "seletbyyear": "Select By Year",
+    "Selctfrommatched": "Select From a matched Application",
+    "Add": "Add",
+    "year": "Year",
+    "applicant": "Applicant Name",
+    "matched": "Employer Name",
+    "Sdate": "Intern Start Date",
+    "edate": "Intern End Date",
+    "Notes": "Notes",
+    "fulltimeoffer": "A full time offer was made to this intern",
+    "thisintern": "This intern accepted a full time offer from the employer",
+    "selectValidYear": "Please select year",
+    "selectValidIntern": "Please select an intern",
+    "selectStartDate": "Please select start date",
+    "selectEndDate": "Please select end date",
+    "editInternship": "Edit Internship",
+    "createInternship": "Create Internship",
+    "Student": {
+      "head": "Supervisor Information ",
+      "head2": "Intern Information ",
+      "Intern": "Intern",
+      "SupervisorFirstName": "Supervisor First Name",
+      "SupervisorLastName": "Supervisor Last Name",
+      "SupervisorDivision": "Supervisor Division",
+      "SupervisorEmailAddress": "Supervisor Email Address",
+      "SupervisorTitle": "Supervisor Title",
+      "SupervisorDepartment": "Supervisor Department",
+      "SupervisorSiteLocation": "Supervisor Site Location",
+      "SupervisorTelephone": "Supervisor Telephone #",
+      "Employer": "Employer",
+      "InternStartDate": "Intern Start Date",
+      "InternEndDate": "Intern End Date",
+      "Pleasedescribe": "Please describe your primary assignment",
+      "Doworkplace": "Do you feel you are making a satisfactory transition into the workplace?",
+      "Doyouhaveamentor": "Do you have a mentor? ",
+      "Hasthisinternshipmet": " Has this internship met your expectations so far?",
+      "SpecificFeedback": "Specific Feedback",
+      "Haveemployer": "Have you been offered a full time position with this employer?",
+      "AdditionalComments": "Additional Comments",
+      "yes": "Yes",
+      "No": "No",
+      "ifno": "If no please explain",
+      "ifyesmrtor": "If yes, what is hs/her name?",
+      "ifyoucould": "If you could change an aspect of your internship experience, what would it be? Please explain.",
+      "Ifaccept": "If yes, will you accept?",
+      "Ifadditional": "If you have any other additional comments about the intern that you'd like to share, please use the space above.",
+      "studenttitle": "Student Internship Evaluation"
+    },
+    "supervisor": {
+      "Pleasedescribe": "Please describe the intern's primary assignment and responsibility.",
+      "internrelationship": "Please rate the intern's relationship with others in the work environment.",
+      "interninitiative": "Please rate the intern's initiative/attitude toward work.",
+      "internjudgment": "Please rate the intern's judgment (ability to make good decisions).",
+      "interndependability": "Please rate the intern's dependability (attendance, punctuality).",
+      "internability": "Please rate the intern's ability to work independently/complete assignments.",
+      "interntimeliness": " Please rate the intern's timeliness of output.",
+      "interntechnical": "Please rate the intern's technical knowledge/analytical skills.",
+      "internperformance": "Please rate the intern's level of performance in producing tangible results.",
+      "internrecognize": "Please rate the intern's ability to recognize problems and respond with favorable solutions.",
+      "internprogress": "Please rate the intern's progress during the summer.",
+      "internoverperformance": "Intern's overall performance",
+      "internfulltime": "Would you consider offering this intern a full-time position? ",
+      "discussed": "Have you discussed this report with the intern? ",
+      "supervisortitle": "Supervisor Internship Evaluation"
+    },
+    "Validation": {
+      "FirstNameRequired": "Please enter a supervisor first name.",
+      "LastNameRequired": "Please enter a supervisor last name.",
+      "DepartmentRequired": "Please enter a supervisor department.",
+      "SiteLocationRequired": "Please enter a supervisor site location.",
+      "EmailRequired": "Please enter a supervisor email address.",
+      "PhoneRequired": "Please enter a supervisor phone number."
+
+    }
+  },
+  "University": {
+    "Unihead": "University Information",
+    "sponsorms": "Will University Sponsor GEM ",
+    "sponsorms1": "Master's Student?",
+    "Providems": "Will University provide MS application waivers to GEM Applicants?",
+    "requiredMs": "GRE required for MS Students?",
+    "sponsorGEMPHD": "Will University Sponsor GEM PhD's Student?",
+    "Providephd": "Will University provide PhD application ",
+    "Providephd1": "waivers to GEM applicants?",
+    "requiredphd": "GRE required for PhD Students?",
+    "udgresearch": "Undergraduate Research Programs",
+    "AisesContact": "AISES Contact",
+    "StemGraduateProgramName": "STEM Graduate Program/Fair Name",
+    "dateforthisacademicyear": "Date For This Academic Year",
+    "shpecontact": "SHPE Contact",
+    "InterestedinhostingGEMinfo": "Interested in Hosting GEM Info Session this Academic Year?",
+    "InterestedinhostingGEMlab": "Interested in Hosting GRAD Lab this Academic Year?",
+    "Requesteddate": "Requested date",
+    "NSBEcontact": "NSBE Contact",
+    "yes": "Yes",
+    "No": "No",
+    "Departmentms": "Which departments wish to actively recruit qualified under-represented minority MS candidates?",
+    "DepartmentPhd": "Which departments wish to actively recruit qualified under-represented minority PhD candidates?",
+    "Externalfelloship": "Other External STEM Fellowships",
+    "allfields": "All Fields",
+    "selectedfields": "Selected fields"
+  },
+  "Organization": {
+    "GeneralInformation": "Employer Information",
+    "UniversityInformation": "University Information",
+    "UniversityName": "University Name",
+    "Contanctformation": "Contact Information",
+    "CarrierCenterInformation": "Career Center Information",
+    "EmployerOfficeInformation": "Employer Office Information",
+    "Garaduateformation": "Graduate Information",
+    "Academicinterests": "Academic Interests",
+    "Administrative": "Administrative",
+    "Administrativeasso": "Administrative Assistant Information",
+    "Upplodpic": "Upload Pic",
+    "Id": "Id",
+    "Usertype": "USER TYPE",
+    "OrganizationName": "Employer Name",
+    "Middlename": "Middle Name",
+    "Lastname": "last Name",
+    "Email": "Email Address ",
+    "Currenttitle": "Current Title",
+    "Country": "Country",
+    "Addressline1": "Address Line1",
+    "Addressline2": "Address Line2",
+    "Mobilephone": "Mobile Phone",
+    "Workphone": "Work Phone",
+    "Homephone": "Home Phone",
+    "City": "City",
+    "State": "State",
+    "Otherphone": "Ohter Phone",
+    "Postalcode": "Postal Code",
+    "Birthday": "Birthday",
+    "Ssn": "SSN",
+    "Gender": "Gender",
+    "Ethnicity": "Ethnicity",
+
+    "Uscitizen": "Are you a US Citizen?",
+    "Ifno": "If no, are you a Permanent Resident?",
+
+    "Currentstatus": "Current Status",
+    "Degree": "Degree",
+    "Undergradateinstitutions": "Undergradate Institutions",
+    "Major": "Major",
+    "Anticipitedgraductionyear": "Anticipited Graduation Year",
+    "Undergraduategpa": "Undergraduate Gpa (%)",
+    "Graduatedegree": "Graduate Degree",
+    "Recruiterinitial": "Recruiter Initial",
+    "Graduateinstitution": "Graduate Institution",
+    "Graduatefieldofstudy": "Graduate Field Of Study",
+    "Gpa": "GPA(%)",
+    "Expectedlevelofstudy": "Expected Level Of Study",
+    "Attendschool": "Do you Plan To Attend Summer School?",
+    "Ihope": "I hope To Enter A Program In",
+    "Preselectemp": "Pre-Select Employer",
+    "Applicationextentiondate": "Application Extention Date",
+    "Emp1": "Employer 1 Name",
+    "Emp2": "Employer 2 Name",
+    "Emp1city": "Employer 1 City/State",
+    "Emp2city": "Employer 2 City/State",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Update": "Update",
+    "AddRepresentative": "Add",
+    "EditContact": "Edit Contact",
+    "SetProfile": "Set Profile",
+    "youMustMakeASelection": "You must make a selection",
+    "Membership": {
+      "Membership": "Membership",
+      "MR0003": "A membership already exists for the specified year for this organization",
+      "EmployerName": "Employer Name",
+      "MembershipStatus": "Membership Status",
+      "MembershipBalance": "Membership Balance",
+      "OtherSponsorship": "Other Total Sponsorship Commitment",
+      "TotalCommitmentFiscal": "Total Committed this Fiscal",
+      "Profile": "Profile",
+      "ProjectNoOfMasters": "Projected # of Master's students",
+      "Students": "Students",
+      "ProjectedNoOfPHDStudent": "Projected # Ph.D. Students",
+      "CreateMembership": "Create Membership",
+      "Member": "Member",
+      "Year": "Year",
+      "#ofMasterStudents": " # of Master's Students",
+      "#ofPhDStudents": " # of Ph.D. Students",
+      "MembershipActive": "Membership Active?",
+      "#JuniorStudents": " # Junior Students",
+      "PageheadCreateEmployer": "Create Employer Membership",
+      "PageheadEditEmployer": "Edit Employer Membership",
+      "PageheadCreateUniversity": "Create University Membership",
+      "PageheadEditUniversity": "Edit University Membership",
+      "subhead": "Membership Information",
+      "TutionInformation": "Tution Information",
+      "ProgramType": "Program Type",
+      "ValidationRequired": {
+        "Member": "You haven’t selected Input, please provide input",
+        "Year": "You haven’t entered year, please provide input",
+        "#ofMasterStudents": "You haven’t entered Input, please provide input",
+        "#ofPhDStudents": "You haven’t entered Input, please provide input",
+        "#JuniorStudents": "You haven’t entered Input, please provide input"
+      },
+      "ValidationOther": {
+        "#ofMasterStudents": "Please enter numbers.",
+        "#ofPhDStudents": "Please enter numbers.",
+        "#JuniorStudents": "Please enter numbers."
+      },
+      "UniversityName": "University Name",
+      "NeedToGenerateInvoice": "Generate Invoice?"
+    },
+    "Tution": {
+      "terms": "Terms",
+      "PhDTution": "PhD Tution($)",
+      "MsTution": "MS Tution($)",
+      "noOfTermsForPhD": "# Of Terms for PhD",
+      "noOfTermsForMaster": "# Of Terms for Master's"
+    }
+  },
+  "Fellow": {
+    "FellowshipApplicationEmployers": {
+      "Search": "Search for User",
+      "NewEmployer": "Add",
+      "uploadResume": "Upload",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "EditUser": "Edit User ",
+      "Title": "Employment History",
+      "canResume": "Your Resume",
+      "editor": {
+        "EmployerName": "Employer Name:",
+        "SupervisorName": "Supervisor Name",
+        "SupervisorTitle": "Supervisor Title",
+        "JobCity": "City of Job",
+        "JobState": "State of Job",
+        "JobTitle": "Your Title",
+        "ReasonForLeaving": "Reason For Leaving",
+        "Duties": "Please describe your duties",
+        "StartDate": "Employed From",
+        "EndDate": "Employed Until",
+        "StartingSalary": "Base Salary (Weekly)",
+        "EndingSalary": "Final Salary (Weekly)",
+        "EmployerNameRequired": "You haven’t entered Emplyer Name, please provide input",
+        "SupervisorNameRequired": "You haven’t entered Supervisor Name, please provide input",
+        "SupervisorTitleRequired": "You haven’t entered Supervisor Title, please provide input",
+        "Close": "Close",
+        "Cancel": "Cancel",
+        "Save": "Save",
+        "Saving": "Saving...",
+        "NumbersOnlyHint": "Numbers only, no commas or $ sign (maximum of 7 digits)."
+      }
+    },
+    "FellowshipApplicationResearchProject": {
+      "NewResearchProject": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+
+      "Title": "Research History",
+      "editor": {
+        "UniversityLocationId": "University Location",
+        "ProgramName": "Research Program Name",
+        "ProjectTitle": "Research Project Title",
+        "ResearchDescription": "Describe the experience",
+        "OtherLocationCity": "Location City",
+        "StartDate": "Start Date",
+        "EndDate": "End Date",
+        "JobState": "Location State",
+        "Close": "Close",
+        "Cancel": "Cancel",
+        "Save": "Save",
+        "Saving": "Saving...",
+        "ProgramNameHint": "(e.g., Louis Stokes Alliance for Minority Particpations, National Science Foundaiton Bridge to the Doctorate, Summer Undergraduate Research Experience)",
+        "ProjectTitleHint": "(e.g., Enhancement of Silicon Wafers Fabrication)",
+        "UniversityLocationHint": "(if research expereince was held at a University please indicate which one)",
+        "ResearchDescriptionName": " (Please include the purpose of the research, your specific contributions, any skills obtained and a brief description of your results)"
+      }
+    },
+    "FellowshipBasicInformation": {
+      "BasicInformation": "Basic Information",
+      "UserInformation": "User Information",
+      "UserId": "User Id",
+      "UserName": "Name",
+      "FellowshipApplicationType": "What are you applying for?",
+      "Scheme": "What scheme are you applying for?",
+      "DegreeFor": "Degree You Intended To Pursue",
+      "IntendedMajor": "Intended Major",
+      "IntendedAreaofConcentration": "Intended Area Of Concentration"
+    },
+    "FellowshipGemRequirement": {
+      "GemRequirement": "Gem Requirements",
+      "head": "Please write your initials in each box to verify your understanding of each item",
+      "Initials": "Initials"
+    },
+    "FellowshipSecurityClearance": {
+      "Header": "Security Clearance Information",
+      "Tabhead": "Security Clearance",
+      "HasEverBeenGrantedSecurityClearance": "Have you ever been granted a U.S. Government security clearance?",
+      "WasClearanceDenied": "Was Clearance Denied?",
+      "ClearanceAgency": "Clearance Agency",
+      "ClearanceLevel": "Clearance Level",
+      "ClearanceEffectiveDate": "Effective Date"
+    },
+    "Common": {
+      "SaveAsDraft": "Save Draft & Finish Later",
+      "SaveAndContinue": "Save & Continue to"
+    },
+    "FellowshipApplicationEducationHistory": {
+      "NewCollege": "Add",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "MatriculationTitle": "Current Matriculation Status",
+      "MatriculationPanelDesc": "Are you currently in a degree program? If not, select",
+      "Notselect": "Not Currently Matriculating.",
+      "AcademicTitle": "Academic Organizations and Honors",
+      "Title": "Education History",
+      "editor": {
+        "UniversityAttended": "University /College Attended",
+        "MajorGPA": "GPA in your major",
+        "CumulativeGPA": "Cumulative GPA",
+        "Degree": "Degree",
+        "MajorAreaOfConc": "Major/Area of Concentration",
+        "GemMajorGrouping": "GEM Major grouping for judging",
+        "StartDate": "Date From",
+        "EndDate": "Date To/Expected End",
+        "GPAScale": "GPA scale",
+        "IsCurrent": "Are you current student?",
+        "Close": "Close",
+        "Cancel": "Cancel",
+        "Save": "Save",
+        "Saving": "Saving...",
+        "Other": "Other"
+      },
+      "highestDegree": "Indicate highest degree received",
+      "expectedProgramYear": "Indicate expected program year for",
+      "expectedGraduation": "Select expected graduation term"
+    },
+    "FellowshipApplicationTranscript": {
+      "NewTranscript": "Add Transcript",
+      "Edit": "Edit",
+      "Delete": "Delete",
+
+      "Title": "Unofficial Transcripts",
+      "editor": {
+        "School": "School",
+        "UploadFile": "Upload File"
+      }
+    },
+    "FellowshipApplicationGREInformaiton": {
+      "Title": "GRE Information",
+      "HasTakenGRE": "Have you taken the GRE?",
+      "WillingToApplyForFeeReductionWaiver": "Do you wish to provide financial need information to apply for a 50% GRE fee reduction waiver through GEM?",
+      "ScannedGREScorecard": "If possible, upload your scanned GRE score card:",
+      "WhatWasScore": "What was your score?",
+      "ReqgisterToTakeTest": "Have you registered to take the test?",
+      "PleaseExplainWhy": "Please explain why you have no plans to take the GRE",
+      "DateOnTest": "What is the date at which you are planning to take the test?",
+      "VerbalGREScore": "Please enter score between 130 and 800 for the Verbal GRE score",
+      "QuantGREScore": "Please enter score between 130 and 800 for the Quant GRE score",
+      "AnalyticalScore": "Please enter score between 0.0 and 6.0 for the Analytical GRE score."
+    },
+    "FellowshipApplicationInternship": {
+      "InternshipHeader": "Internship Information",
+      "WillAcceptIntenship": "Will you be free to accept a 10-12 week of internship with GEM member institution for the summer of",
+      "Select": "Select",
+      "AssignemnetIntrest": "What type of work assignment intrests you?",
+      "GeographicAreaPrefer": "Geographically, where do you prefer to work?",
+      "IndustriesRefuseToWork": "If there are any Industries in which you would refuse to work, please explain",
+      "MilitryObligations": "If you have any military obligations, please list them here"
+    },
+    "FellowshipApplicationEmployerPrefernces": {
+      "EmployerPreferncesHeader": "Employer Preferences",
+      "EmployerPreferncesLabel": "Please rank your employer preferences.Listing of employer preferences is for information purposes only, and is not a guarantee that you will be selected by a ranked employer",
+      "FirstChoice": "First Choice",
+      "SecondChoice": "Second Choice",
+      "ThirdChoice": "Third Choice",
+      "Select": "Select",
+      "Skills": "Do you wish to specify your computer/programming skills (Highly recommended for all applicants,particularly computer science majors)?",
+      "SkillsHeader": "Skills",
+      "RateSkills": "Please rate your computer/programming from 0-3 (0-no knowledge,1-basic,2-proficient,3-expert)"
+    },
+    "UniversityPreferences": {
+      "Header": "University Preferences",
+      "WhichUniversityToApply": "Please indicate up to three GEM Member universities to which plan to apply. Note that you MUST apply at least three GEM Member universities by their respective application requirements and department deadline,in order to qualify for the GEM fellowship. Failure to submit applications will result in disqualification.",
+      "FirstChoice": "First Choice University",
+      "SecondChoice": "Second Choice University",
+      "ThirdChoice": "Third Choice University",
+      "Select": "Select",
+      "DegreeInfo": "Degree Information"
+    },
+    "FellowshipStatementOfPurpose": "Statement Of Purpose",
+    "FellowshipApplicationStatementOfPurpose": {
+      "Header": "Statement Of Purpose",
+      "LabelForTextArea": "Please cut and paste your Statement of purpose in the box below. Limited to 800 words or less",
+      "SupplementalRemarks": "Supplemental Remarks/Comments",
+      "AdditionalComment": "Please enter any additional remarks or comments, or anything else you'd like us to know when evaluating your application",
+      "HowHearAboutGEM": "How did you hear about GEM?",
+      "Select": "Select",
+      "GEMRep": "GEM Rep"
+    },
+    "FellowshipRecommendation": {
+      "Tabhead": "Fellowship Recommendation",
+      "applicationsubmitted": "Application Submitted",
+      "reviewconfirm": "Review and Confirm",
+      "Header": "Recommendations",
+      "NoThirdRecommondation": "I do not want to submit a third Recommondation",
+      "Recommender1": {
+        "Title": "Recommender #1",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "ConfirmEmail": "Confirm Email Address",
+        "Employer": "Employer",
+        "PhoneNumber": "Phone Number",
+        "JobTitle": "Job Title"
+      },
+      "Recommender2": {
+        "Title": "Recommender #2",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "ConfirmEmail": "Confirm Email Address",
+        "Employer": "Employer",
+        "PhoneNumber": "Phone Number",
+        "JobTitle": "Job Title"
+      },
+      "Recommender3": {
+        "Title": "Recommender #3",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "ConfirmEmail": "Confirm Email Address",
+        "Employer": "Employer",
+        "PhoneNumber": "Phone Number",
+        "JobTitle": "Job Title"
+      }
+    }
+
+  },
+  "Donation": {
+    "makeADonation": "Make a Donation",
+    "personalInformation": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zipCode": "Zip Code",
+    "phone": "Phone",
+    "fellowshipDonation": "GEM Alumni Association Fellowship Fund",
+    "generalDonation": "General Donation",
+    "creditCardInformation": "Credit Card Information",
+    "creditCardName": "Name on Credit Card",
+    "creditCardNumber": "Creadit Card Number",
+    "creditCardExpiration": "Expiration - MM/YY",
+    "creditCardSecurityCode": "Security Code",
+    "gEMAlumniFundDonationAmount": "GEM Alumni Association Fellowship Fund",
+    "generalDonationAmount": "General Donation",
+    "donate": "Donate",
+    "cancel": "Cancel",
+    "Errors": {
+      "firstNameRequired": "You haven't entered a first name",
+      "lastNameRequired": "You haven't entered a last name",
+      "emailRequired": "You haven't entered an email address",
+      "addressRequired": "You haven't entered an address",
+      "cityRequired": "You haven't entered a city",
+      "stateRequired": "You haven't entered a state",
+      "zipCodeRequired": "You haven't entered a zip code",
+      "phoneRequired": "You haven't entered a phone number",
+      "creditCardNameRequired": "You haven't entered the name on credit card",
+      "creditCardNumberRequired": "You haven't entered a creadit card number",
+      "creditCardExpirationRequired": "You haven't entered an expiration",
+      "creditCardSecurityCodeRequired": "You haven't entered a security code",
+      "amountRequired": "You haven't entered an amount"
+    }
+  },
+  "Judging": {
+    "title": "Manage Judging Teams",
+    "pageDesc": "Below is a list of teams set up in the system.",
+    "teamName": "Team Name",
+    "description": "Team Description/Comments",
+    "ApplicationCycle": "Application Cycle",
+    "CreateJudging": "Create Judging Team",
+    "EditJudging": " Update Judging Team",
+    "JudgingMember": "Member #",
+    "AssignedApplicant": "Assigned Applications",
+    "SubmitScoreCard": {
+      "Previous": "Previous",
+      "Save": "Save",
+      "Submit": "Submit",
+      "Delete": "Delete",
+      "Cancel": "Cancel",
+      "SaveAndNext": "Save & Next",
+      "ApplicantName": "Applicant Name",
+      "Judge": "Judge",
+      "SubmitScoreCard": "Submit Score Card",
+      "DeleteScoreCard": "Delete Score Card",
+      "ViewApplication": "view applicantion",
+      "Total": "Total",
+      "MaxScore": "Maximum Score",
+      "Percentage": "Percentage",
+      "ReviewersComments": "Reviewer's Comments",
+      "RankFactor": "Rank Factor",
+      "Rating": "Rating",
+      "val1": "1",
+      "val2": "2",
+      "val3": "3",
+      "val4": "4",
+      "val5": "5",
+      "ApplicantScore": "Applicant Score",
+      "PRG": "PRG",
+      "ExpectedMajor": "Expected Major",
+      "IntendedAreaofConcentration": "Intended Area of Concentration",
+      "Verbal": "Verbal",
+      "Quantitative": "Quantitative",
+      "Analytical": "Analytical",
+      "ValidationMessage": {
+        "GPAScore": "You have not entered GPA score",
+        "InvalidGPAScore": "Please enter a valid score between 1 and 5 for the GPA score.",
+        "MajorGPAScore": "You have not entered Major GPA score",
+        "InvalidMajorGPAScore": "Please enter a valid score between 1 and 5 for the Major GPA score.",
+        "TranscriptScore": "You have not entered Transcript score",
+        "InvalidTranscriptScore": "Please enter a valid score between 1 and 5 for the Transcript score.",
+        "UGIScore": "You have not entered Undergraduate Instruction score",
+        "InvalidUGIScore": "Please enter a valid score between 1 and 5 for the Undergraduate Instruction score.",
+        "StatementOfPurposeScore": "You have not entered Statement of Purpose score",
+        "InvalidStatementOfPurposeScore": "Please enter a valid score between 1 and 5 for the Statement of Purpose score.",
+        "ResumeScore": "You have not entered Resume score",
+        "InvalidResumeScore": "Please enter a valid score between 1 and 5 for the Resume score.",
+        "RecommendationLetter1Score": "You have not entered Recommendation Letter (1) score",
+        "InvalidRecommendationLetter1Score": "Please enter a valid score between 1 and 5 for the Recommendation Letter (1) score.",
+        "RecommendationLetter2Score": "You have not entered Recommendation Letter (2) score",
+        "InvalidRecommendationLetter2Score": "Please enter a valid score between 1 and 5 for the Recommendation Letter (2) score.",
+        "RecommendationLetter3Score": "You have not entered Recommendation Letter (3) score",
+        "InvalidRecommendationLetter3Score": "Please enter a valid score between 1 and 5 for the Recommendation Letter (3) score.",
+        "OverAllEvaluationScore": "You have not entered Overall Evaluation score",
+        "InvalidOverAllEvaluationScore": "Please enter a valid score between 1 and 5 for the Overall Evaluation."
+      }
+    },
+    "ViewApplicationTranscriptStatementofPurpose": "View Application Transcript/Statement of Purpose",
+    "BacktoSummary": "Summary",
+    "BacktoScoreCard": "Score Card",
+    "SubmitAll": "Submit All",
+    "MyJudgingSummary": "Summary",
+    "JudgeApplicantInfo": "Below is a list of applicants assigned to you. Click Submit Score Card to judge the application.",
+    "ViewScoreSummary": {
+      "NoScoreSubmitted": "No scores have been submitted for this application."
+    }
+  },
+  "Events": {
+    "EventCreate": {
+      "ValidationMessage": {
+        "EventNameRequired": "You haven’t entered the Event name, please provide input",
+        "DescriptionRequired": "You haven’t entered Event Description, please provide input",
+        "StartDateRequired": "You haven’t entered Start Date and Time, please provide input",
+        "EndDateRequired": "You haven’t entered End Date and Time, please provide input",
+        "capacity": "You haven’t entered Capacity, please provide input",
+        "descriptionRequired": "You haven’t entered the description, please provide input",
+        "emailBodyRequired": "You haven’t entered the Email Body, please provide input",
+        "IsPrivateRequired": "You haven’t selected the Checkbox, please select the checkbox",
+        "EnableSpeakerEvaluationsRequired": "You haven’t selected the Checkbox, please select the checkbox",
+        "IsRegistrationAllowedRequired": "You haven’t selected the Checkbox, please select the checkbox",
+        "RegistrationOpenDateRequired": "You haven’t entered Registration Open Date and Time, please provide input",
+        "RegistrationCloseDateRequired": "You haven’t entered Registration Close Date and Time, please provide input",
+        "EarlyBirdDateRequired": "You haven’t entered Early Bird Date and Time, please provide input",
+        "RegularRegistrationDateRequired": "You haven’t entered Regular Registration Date and Time, please provide input",
+        "LateRegistrationDateRequired": "You haven’t entered Late Registration Date and Time, please provide input",
+        "RegistrationRequiresApprovalRequired": "You haven’t selected the Checkbox, please select the checkbox"
+      }
+    },
+    "RegistrationTypeCreate": {
+      "ValidationMessage": {
+        "RegistrationTypeNameRequired": "You haven’t entered name of the registration type, please provide input",
+        "ReqularRateRequired": "You haven’t entered Regular Rate, please provide input"
+      }
+    },
+    "SponsersCreate": {
+      "ValidationMessage": {
+        "SponsernameNameRequired": "You haven’t entered the name of the person, please provide input",
+        "DescriptionRequired": "You haven’t entered the Description, please provide input",
+        "AmountRequired": "You haven’t entered amount, please provide input",
+        "SponserRequired": "Please select sponsor name as input"
+      }
+    },
+    "SpeakerCreate": {
+      "ValidationMessage": {
+        "speakerIdValidationRequired": "You haven’t entered the name of the person, please provide input",
+        "speakerValidationRequired": "The speaker you have selected has already been assigned to this event."
+      }
+    },
+    "AdminCreate": {
+      "ValidationMessage": {
+        "AdminIdValidationRequired": "You haven’t entered the name of the person, please provide input",
+        "AdminValidationRequired": "The Admin you have selected has already been assigned to this event."
+      }
+    },
+    "Registerforevent": {
+      "ValidationMessage": {
+        "AdminIdValidationRequired": "You haven’t entered the name of the person, please provide input",
+        "firstNameRequired": "You haven’t entered the first name of the person, please provide input",
+        "lastNameRequired": "You haven’t entered the last name of the person, please provide input",
+        "emailRequired": "You haven’t entered the email of the person, please provide input",
+        "registrationTypeIdRequired": "You haven’t selected the registration Type of the person, please provide input"
+      }
+    },
+    "EvaluationQuestionCreate": {
+      "ValidationMessage": {
+        "SortOrderRequired": "You haven’t entered the name of the registration question, please provide input",
+        "MinScoreRequired": "You haven’t entered Minimum Score, please provide input",
+        "EvaluationQuestionNameRequired": "You haven’t entered the number of question, please provide input",
+        "MaxScoreRequired": "You haven’t entered Maximum Score, please provide input"
+      }
+    },
+    "RegistrationTicketCreate": {
+      "ValidationMessage": {
+        "TicketNameRequired": "You haven’t entered the Event name, please provide input",
+        "DescriptionRequired": "You haven’t entered Event Description, please provide input",
+        "CapacityRequired": "You haven’t entered Capacity, please provide input",
+        "RegularRateRequired": "You haven’t entered Regular Rate, please provide input",
+        "LateRateRequired": "You haven’t entered Late Rate, please provide input"
+      }
+    },
+    "RegistrationQuestionCreate": {
+      "ValidationMessage": {
+        "SortOrderRequired": "You haven’t entered the name of the registration question, please provide input",
+        "registrationQuestionNameRequired": "You haven’t entered name of the registration question, please provide input",
+        "displayTextRequired": "You haven’t entered Display Text of the registration question, please provide input",
+        "displayTypeRequired": "You haven’t Selected the Display Type of question, please provide input",
+        "acceptableValuesRequired": "Enter the acceptable values below, each on a new line",
+        "dataTypeRequired": "You haven’t entered Data Type, please provide input"
+      }
+    }
+  },
+  "loginAndPasswordMessages": {
+    "UserLocked": "The account has been locked",
+    "UserInActive": "The account is not active",
+    "UserEmailNotFound": "Could not find user,please enter valid registered Email Id",
+    "UserNameNotFound": "Could not find user, please enter valid User Name",
+    "InvalidCredential": "Please enter valid password",
+    "CurrentPasswordMatchFailed": "Your current password does not match",
+    "CaptchNotConfigured": "Captcha Keys not configured",
+    "CaptchNotVerified": "Could not verify captcha",
+    "UnableToProcess": "Unable to process request, please try again later",
+    "UnableToResetPassword": "Unable to reset user password. Please try again later.",
+    "RequireNewPassword": "Please enter new password",
+    "SamePassword": "Current password and new password are same. Please enter a different new password",
+    "ConfirmPasswordNotMatched": "New password and Confirmation password did not match",
+    "RequireCurrentPassword": "Please enter your current password",
+    "RequireConfirmPassword": "Please enter confirm password",
+    "PasswordPatternNotMatched": "Password does not match criteria",
+    "ProhibitedPassword": "Password not allowed",
+    "PasswordTooShort": "Entered password is too short"
+  },
+  "ECommerce": {
+    "Product": {
+      "PriceRequired": "Price is required.",
+      "PricePattern": "Only decimal value is allowd with 4 decimal digits",
+      "PriceLength": "Price should not be more than 10 characters.",
+      "DescriptionPattern": "Special character's are not allowd.",
+      "ProductRequired": "Product Name is required.",
+      "ProductPattern": "Special character's are not allowd.",
+      "ProductLength": "Product Name should not be more than 100 characters.",
+      "glAccount": "Only numbers are allowed.",
+      "CategoryRequired": "Category is required"
+    }
+  },
+  "fellowshipApplictaionType": [
+    {
+      "Text": "Master's Engineering Fellowship",
+      "Value": 0
+    },
+    {
+      "Text": "Ph.D. Engineering Fellowship",
+      "Value": 10
+    },
+    {
+      "Text": "Ph.D. Science Fellowship",
+      "Value": 20
+    }
+  ]
+
+}

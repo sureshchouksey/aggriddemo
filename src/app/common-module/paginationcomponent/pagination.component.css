@@ -1,0 +1,55 @@
+/*.pagination li {
+	display: inline-block;
+}
+.pagination li:active {
+	display: inline-block;
+}
+.pagination li a{border: 1px solid #a3a3a3;
+	
+	
+	color: #a3a3a3;
+	font-size: 12px;
+
+}*/
+.pagelist {padding:6px 0px;float:right;font-size:12px;color:#979797}
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+  z-index: 3;
+  color: #fff;
+  cursor: default;
+  border: 1px solid rgb(224,128,41);
+  background-color: rgb(224,128,41);
+  border-color: rgb(224,128,41);
+}
+.pagination > li:first-child > a, .pagination > li:first-child > span {
+	margin-left: 0;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.pagination .select {margin-left:10px;
+}
+.pagination > li > a, .pagination > li > span {
+  position: relative;
+  float: left;
+  color: #747474;
+  padding: 2px 8px;
+  margin: 0px 3px;
+  cursor: pointer;
+  border: 1px solid #979797;
+  font-size: 12px;
+}
+
+
+
+.blue-theme .pagination > .active > a, .blue-theme .pagination > .active > a:focus, .blue-theme .pagination > .active > a:hover, .blue-theme .pagination > .active > span, .pagination > .active > span:focus, .blue-theme .pagination > .active > span:hover {
+  z-index: 3;
+  color: #fff;
+  cursor: default;
+  border: 1px solid #459bdb;
+  background-color: #459bdb;
+  border-color: #459bdb;
+}

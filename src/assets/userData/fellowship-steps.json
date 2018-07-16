@@ -1,0 +1,71 @@
+[
+  {
+    "name": "fellowshipBasicInformation",
+    "step": 1
+  },
+  {
+    "name": "fellowshipgemrequirements",
+    "step": 2
+  },
+  {
+    "name": "securityclearance",
+    "step": 3
+  },
+  {
+    "name": "educationhistory",
+    "step": 4
+
+  },
+  {
+    "name": "employmenthistory",
+    "step": 5
+
+  },
+  {
+    "name": "researchhistory",
+    "step": 6
+
+  },
+  {
+    "name": "choiceprograms",
+    "step": 7
+
+  },
+  {
+    "name": "internshipinfo",
+    "step": 8
+
+  },
+  {
+    "name": "greinformation",
+    "step": 9
+
+  },
+  {
+    "name": "transcript",
+    "step": 10
+
+  },
+  {
+    "name": "statementofpurpose",
+    "step": 11
+
+  },
+  {
+    "name": "recommendation",
+    "step": 12
+
+  },
+  {
+    "name": "reviewconfirmation",
+    "step": 13
+
+  },
+  {
+    "name": "reviewandsubmit",
+    "step": 14
+
+  }
+]
+ 
+

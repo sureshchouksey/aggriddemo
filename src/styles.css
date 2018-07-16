@@ -1,1 +1,435 @@
-/* You can add global styles to this file, and also import other style files */
+@import './assets/styles/ngx-datatable.css';
+@import './assets/styles/alertify.core.css';
+@import './assets/styles/alertify.bootstrap.css';
+
+
+
+@import './assets/styles/ag-grid.css';
+@import './assets/styles/ag-theme-fresh.css';
+
+/*===================================Reset Css==================================*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*===================================Reset Css==================================*/
+
+
+body {
+  font-family: 'OpenSansRegular';
+  line-height: 1.5em;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans-Regular.eot?") format("eot"), url("/assets/fonts/OpenSans-Regular.woff") format("woff"), url("/assets/fonts/OpenSans-Regular.ttf") format("truetype"), url("/assets/images/fonts/OpenSans-Regular.svg#OpenSans") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSansRegular';
+  src: url('/assets/fonts/OpenSansRegular.eot');
+  src: url('/assets/fonts/OpenSansRegular.eot') format('embedded-opentype'), url('/assets/fonts/OpenSansRegular.woff2') format('woff2'), url('/assets/fonts/OpenSansRegular.woff') format('woff'), url('/assets/images/fonts/OpenSansRegular.ttf') format('truetype'), url('/assets/images/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+
+@font-face {
+  font-family: "Open Sans Semibold";
+  src: url("/assets/fonts/OpenSans-Semibold.eot?") format("eot"),url("/assets/OpenSans-Semibold.woff") format("woff"),url("/assets/fonts/OpenSans-Semibold.ttf") format("truetype"),url("/assets/images/fonts/OpenSans-Semibold.svg#OpenSans-Semibold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArialRoundedMTStd';
+  src: url('/assets/fonts/ArialRoundedMTStd.eot');
+  src: url('/assets/fonts/ArialRoundedMTStd.eot') format('embedded-opentype'), url('/assets/fonts/ArialRoundedMTStd.woff2') format('woff2'), url('/assets/fonts/ArialRoundedMTStd.woff') format('woff'), url('/assets/fonts/ArialRoundedMTStd.ttf') format('truetype'), url('/assets/fonts/ArialRoundedMTStd.svg#ArialRoundedMTStd') format('svg');
+}
+
+
+
+
+.navbar .nav li a:hover,
+.navbar.nav li.toolbaritem a:hover,
+.nav.nav-tabsNOTUSE li a:hover {
+  color: #E03930;
+}
+
+.reset-padding {
+  padding: 0px;
+}
+
+.reset-margin {
+  margin: 0px;
+}
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
+  background-color: #efefef;
+}
+
+.borderbottom {
+  border-bottom: 1px solid
+}
+
+.nav.nav-tabsNOTUSED li.active a {
+  color: #555;
+}
+
+.disabledContainer {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+input.form-control.is-required-status, textarea.form-control.is-required-status, .bootstrap-select.is-required-status > .dropdown-toggle {
+  border-left-width: 5px;
+}
+
+.ng-valid[required], .ng-valid.required {
+  border-left: 0px solid #42A948 !important; /*57A83F*/
+}
+
+.ng-invalid:not(form) {
+  border-left: 0px solid #a94442 !important; /*E03930*/
+}
+
+.bootstrap-select.ng-novalidation > .dropdown-toggle {
+  border-left-width: 5px;
+}
+
+.has-success .bootstrap-select .dropdown-toggle,
+.success .bootstrap-select .dropdown-toggle {
+  border-color: #3c763d;
+}
+
+.has-error .bootstrap-select .dropdown-toggle,
+.error .bootstrap-select .dropdown-toggle {
+  border-color: #a94442;
+}
+
+.bootstrap-select .btn-default .badge {
+  color: #fff;
+  background-color: #777;
+}
+
+
+.pageHeader {
+  margin-bottom: 20px;
+  color: #Df7a1c;
+  padding-bottom: 5px;
+}
+
+  .pageHeader h3 {
+    font-size: 22px;
+    margin-top: 10px;
+  }
+
+.errorMessage {
+  padding: 5px 10px;
+  color: #a94442;
+}
+
+.appName {
+  font-family: 'OpenSansRegular';
+  font-size: 11px;
+}
+
+i.page-caption {
+  vertical-align: baseline;
+  font-size: 1.2em;
+}
+
+
+
+.alertify {
+  top: 75px;
+}
+
+.alertify-message {
+  font-size: 1.2em;
+}
+
+
+
+#toasty.toasty-position-top-right {
+  top: 70px;
+  right: 20px;
+}
+
+#toasty .toast.toasty-theme-bootstrap {
+  font-size: 1em;
+}
+
+  #toasty .toast.toasty-theme-bootstrap .toast-text .toast-title {
+    font-size: 1.04em;
+  }
+
+
+
+
+/*-webkit-filter: blur(5px) grayscale(90%);*/
+/*body.modal-open .container {
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+    -o-filter: blur(1px);
+    -ms-filter: blur(1px);
+    filter: blur(1px);
+    filter: url("https://gist.githubusercontent.com/amitabhaghosh197/b7865b409e835b5a43b5/raw/1a255b551091924971e7dee8935fd38a7fdf7311/blur".svg#blur);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='1');
+}*/
+
+
+.notifications-popup .popover {
+  color: #333 !important;
+  max-width: 500px;
+  width: 500px;
+}
+
+
+.vertical-center-flex {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+
+/*Hack stop get ngx-datatable width to be full when inside bootstrap tab control*/
+.tab-pane .datatable-scroll {
+  width: 100% !important;
+}
+
+.ngx-datatable.scroll-vertical {
+  height: 64vh;
+}
+
+
+
+.boldFont.app-component {
+  font-weight: bold;
+}
+
+.black-anchor {
+  color: #333;
+}
+
+
+
+.form-group .icon-addon .form-control {
+  border-radius: 25px;
+}
+
+.icon-addon {
+  position: relative;
+  color: #555;
+  display: block;
+}
+
+  .icon-addon:after,
+  .icon-addon:before {
+    display: table;
+    content: " ";
+  }
+
+  .icon-addon:after {
+    clear: both;
+  }
+
+  .icon-addon.addon-md .glyphicon,
+  .icon-addon .glyphicon,
+  .icon-addon.addon-md .fa,
+  .icon-addon .fa {
+    position: absolute;
+    z-index: 2;
+    font-size: 14px;
+    width: 20px;
+    text-align: center;
+    padding: 10px 0;
+    top: 1px;
+  }
+
+    .icon-addon .fa.left-icon {
+      left: 10px;
+      margin-left: -2.5px;
+    }
+
+    .icon-addon .fa.right-icon {
+      right: 10px;
+      margin-right: -2.5px;
+    }
+
+  .icon-addon.addon-lg .form-control {
+    line-height: 1.33;
+    height: 46px;
+    font-size: 18px;
+  }
+
+    .icon-addon.addon-lg .form-control.left-icon {
+      padding-top: 10px;
+      padding-right: 16px;
+      padding-bottom: 10px;
+      padding-left: 40px !important;
+    }
+
+    .icon-addon.addon-lg .form-control.right-icon {
+      padding-top: 10px;
+      padding-right: 40px !important;
+      padding-bottom: 10px;
+      padding-left: 16px;
+    }
+
+
+  .icon-addon.addon-sm .form-control {
+    height: 30px;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+    .icon-addon.addon-sm .form-control.left-icon {
+      padding-top: 5px;
+      padding-right: 10px;
+      padding-bottom: 5px;
+      padding-left: 28px !important;
+    }
+
+    .icon-addon.addon-sm .form-control.right-icon {
+      padding-top: 5px;
+      padding-right: 28px !important;
+      padding-bottom: 5px;
+      padding-left: 10px;
+    }
+
+
+  .icon-addon.addon-lg .fa,
+  .icon-addon.addon-lg .glyphicon {
+    font-size: 18px;
+    top: 4px;
+  }
+
+    .icon-addon.addon-lg .fa.left-icon,
+    .icon-addon.addon-lg .glyphicon.left-icon {
+      margin-left: 0;
+      left: 11px;
+    }
+
+    .icon-addon.addon-lg .fa.right-icon,
+    .icon-addon.addon-lg .glyphicon.right-icon {
+      margin-right: 0;
+      right: 11px;
+    }
+
+
+  .icon-addon.addon-md .form-control,
+  .icon-addon .form-control {
+    font-weight: normal;
+  }
+
+    .icon-addon.addon-md .form-control.left-icon,
+    .icon-addon .form-control.left-icon {
+      float: left;
+      padding-left: 30px;
+    }
+
+    .icon-addon.addon-md .form-control.right-icon,
+    .icon-addon .form-control.right-icon {
+      float: right;
+      padding-right: 30px;
+    }
+
+
+  .icon-addon.addon-sm .fa,
+  .icon-addon.addon-sm .glyphicon {
+    font-size: 12px;
+    top: -1px;
+  }
+
+    .icon-addon.addon-sm .fa.left-icon,
+    .icon-addon.addon-sm .glyphicon.left-icon {
+      margin-left: 0;
+      left: 5px;
+    }
+
+    .icon-addon.addon-sm .fa.right-icon,
+    .icon-addon.addon-sm .glyphicon.right-icon {
+      margin-right: 0;
+      right: 5px;
+    }
+
+
+
+
+  .icon-addon .form-control:focus + .glyphicon,
+  .icon-addon:hover .glyphicon,
+  .icon-addon .form-control:focus + .fa,
+  .icon-addon:hover .fa {
+    color: #2580db;
+  }
+
+.clear-input {
+  text-decoration: none !important;
+  color: #b3b3b3 !important;
+}
+
+  .clear-input:hover {
+    color: #2580db !important;
+  }
+
+.inline-block {
+  display: inline-block;
+}
+
+
+
+
+.blue-theme .pageHeader {
+  margin-bottom: 20px;
+  color: #459bdb;
+  padding-bottom: 5px;
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .pageHeader h3 {
+    font-size: 19px;
+  }
+}

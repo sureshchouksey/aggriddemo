@@ -1,0 +1,96 @@
+
+    [
+    {"menuId":"1","cogClass":"fa fa-home", "menuName":"Home","menuRoute":"","menuComponent":"HomeComponent","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"2","cogClass":"fa fa-user-o","menuName":"User Management","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"3","cogClass":"fa fa-users","menuName":"Fellowship","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"4","cogClass":"fa fa-building","menuName":"Employer","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"5","cogClass":"fa fa-university","menuName":"Universities","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"6","cogClass":"fa fa-calendar","menuName":"Events","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"7","cogClass":"fa fa-black-tie","menuName":"Career Centre","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"8","cogClass":"fa fa-rupee","menuName":"Funds","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+    {"menuId":"9","cogClass":"fa fa-shopping-cart","menuName":"Online Stores","menuRoute":"","menuComponent":"","menulevel":"0","hasAccess":true,"subMenuItem":[]},
+      {
+        "menuId": "10",
+        "cogClass": "fa fa-gear",
+        "menuName": "Configuration",
+        "menuRoute": "",
+        "menuComponent": "",
+        "menulevel": "0",
+        "hasAccess": true,
+        "subMenuItem": [
+          {
+            "menuId": "11",
+            "menuName": "skills",
+            "menuRoute": "/skills",
+            "menuComponent": "SkillsComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "12",
+            "menuName": "Major Management",
+            "menuRoute": "/majormanagement",
+            "menuComponent": "MajorManagementComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "13",
+            "menuName": "Company Management",
+            "menuRoute": "/companymanagement",
+            "menuComponent": "CompanyManagementComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "14",
+            "menuName": "Area Of Concentration",
+            "menuRoute": "/areaofconcentration",
+            "menuComponent": "AreaOfConcentrationComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "15",
+            "menuName": "Geographic Management",
+            "menuRoute": "/geographicmanagement",
+            "menuComponent": "GeographicManagementComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "16",
+            "menuName": "Referral Source Management",
+            "menuRoute": "/referralsourcemanagement",
+            "menuComponent": "ReferralSourceManagementComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "17",
+            "menuName": "Work Assignments",
+            "menuRoute": "",
+            "menuComponent": "/WorkAssignmentComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "18",
+            "menuName": "Undergraduate School",
+            "menuRoute": "/undergraduateschool",
+            "menuComponent": "UndergraduateSchoolComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          },
+          {
+            "menuId": "21",
+            "menuName": "Application Cycle",
+            "menuRoute": "/applicationcycle",
+            "menuComponent": "ApplicationCycleComponent",
+            "menulevel": "1",
+            "hasAccess": true
+          }
+        ]
+      },
+    {"menuId":"19","cogClass":"fa fa-line-chart","menuName":"Reports","menuRoute":"","menuComponent":"HomeComponent","menulevel":"0","hasAccess":true,"subMenuItem":[]}
+]
